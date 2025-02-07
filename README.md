@@ -33,7 +33,7 @@ This project was developed entirely by me as a solo endeavor, focusing on physic
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Abo7mood/School_Journey_Game.git
+   git clone https://github.com/Abo7mood/The_Student-Game.git
    ```
 2. Open the project in Unity (version 2019.4.4f).
 3. Build and run the game on your preferred platform (Windows/Mobile).
@@ -98,7 +98,7 @@ The game demo is available in the folder: **/Game**
 1. حمل المشروع:
 
    ```bash
-   git clone https://github.com/Abo7mood/School_Journey_Game.git
+   git clone https://github.com/Abo7mood/The_Student-Game.git
    ```
 2. افتح المشروع في Unity (الإصدار 2019.4.4f).
 3. ابني اللعبة وشغلها على **ويندوز أو موبايل**.
